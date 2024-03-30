@@ -3,7 +3,7 @@
 <p>
   Hello! My name is Logan and I'm a first year CS major. <br>
   I'm primarily interested in the front-end side of things, especially in regards to web dev. <br>
-  Other than that though, I hope to eventually create DAW plugins as well.
+  Other than that though, I hope to eventually create DAW plugins later down the line
 </p>
 
 <!--
