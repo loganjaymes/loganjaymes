@@ -1,9 +1,8 @@
 ![image](https://github.com/loganjaymes/loganjaymes/assets/72956923/3410bec7-0d28-4f55-8e99-fcd56ef08839)
 
 <p>
-  Hello! My name is Logan and I'm a first year CS major. <br>
-  I'm primarily interested in the front-end side of things, especially in regards to web dev. <br>
-  Other than that though, I hope to eventually create DAW plugins later down the line.
+  Hello! My name is Logan and I'm a second year CS major. <br>
+  I'm primarily interested in the front-end side of things, especially in regards to web dev.
 </p>
 
 <!--
