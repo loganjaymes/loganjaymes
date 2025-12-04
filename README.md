@@ -1,21 +1,12 @@
-![image](https://github.com/loganjaymes/loganjaymes/assets/72956923/3410bec7-0d28-4f55-8e99-fcd56ef08839)
-
+# about
 <p>
-  Hello! My name is Logan and I'm a third year CS major. <br>
-  I'm primarily interested in the front-end side of things, especially in regards to web dev.
+  3rd year CS @ UF (December 2026) </br>
+  graphic design lead @ UF AES 
 </p>
 
-<!--
-**loganjaymes/loganjaymes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# currently
+<ul>
+  <li>familiarizing myself with C and Rust after solely working with C++, Python, and Java</li>
+  <li>front-end web-dev + design work for fun</li>
+  <li>learning more about cloud computing after completing AWS Cloud Practitioner Essentials in Summer 2025</li>
+</ul>
