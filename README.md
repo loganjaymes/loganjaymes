@@ -6,7 +6,6 @@
 
 # currently
 <ul>
-  <li>delving into C and Rust after solely working in C++, Python, and Java</li>
-  <li>front-end web-dev + design work for fun</li>
-  <li>learning more about cloud computing after completing AWS Cloud Practitioner Essentials in Summer 2025</li>
+  <li>learning C and Rust after solely working in C++, Python, and Java</li>
+  <li>front-end web-dev and design work for fun</li>
 </ul>
