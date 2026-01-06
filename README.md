@@ -1,4 +1,4 @@
-<img width="1471" height="608" alt="art by logan jaymes" src="https://github.com/user-attachments/assets/2315227c-49fe-4a3a-9fb0-3b5b6dcba8d6" />
+<img width="1218" height="541" alt="art by logan jaymes" src="https://github.com/user-attachments/assets/59b2a600-c3bb-4f42-a45a-a5a0dda97f8c" />
 
 # about
 <p>
