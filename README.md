@@ -8,6 +8,6 @@
 
 # currently
 <ul>
-  <li>learning C and Rust after solely working in C++, Python, and Java</li>
+  <li>developing in C and Rust after solely working in C++, Python, and Java</li>
   <li>front-end web-dev and design work for fun</li>
 </ul>
