@@ -5,10 +5,3 @@
   4th year CS @ UF (December 2026) </br>
   graphic design lead @ UF AES 
 </p>
-
-# currently
-<ul>
-  <li>working on system-level projects (toy OS, smaller system exercises)</li>
-  <li>finishing a MIDI drumkit (it'll be done by end of September, i promise)</li>
-  <li>front-end web-dev and design work for fun</li>
-</ul>
